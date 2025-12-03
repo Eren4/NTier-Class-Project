@@ -5,9 +5,7 @@ using Project.Bll.Dtos;
 using Project.Bll.Managers.Abstracts;
 using Project.Bll.Managers.Concretes;
 using Project.WebApi.Models.RequestModels.AppUsers;
-using Project.WebApi.Models.RequestModels.Categories;
 using Project.WebApi.Models.ResponseModels.AppUsers;
-using Project.WebApi.Models.ResponseModels.Categories;
 
 namespace Project.WebApi.Controllers
 {

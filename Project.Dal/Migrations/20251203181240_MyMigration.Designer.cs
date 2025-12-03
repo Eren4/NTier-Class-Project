@@ -12,7 +12,7 @@ using Project.Dal.ContextClasses;
 namespace Project.Dal.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20251202172133_MyMigration")]
+    [Migration("20251203181240_MyMigration")]
     partial class MyMigration
     {
         /// <inheritdoc />

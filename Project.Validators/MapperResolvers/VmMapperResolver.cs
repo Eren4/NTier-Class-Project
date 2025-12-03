@@ -1,4 +1,5 @@
-﻿using Project.WebApi.MappingProfiles;
+﻿using Microsoft.Extensions.DependencyInjection;
+using Project.WebApi.MappingProfiles;
 
 namespace Project.WebApi.MapperResolvers
 {

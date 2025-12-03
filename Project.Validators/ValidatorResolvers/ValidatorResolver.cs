@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using Microsoft.Extensions.DependencyInjection;
 using Project.WebApi.MappingProfiles;
 using Project.WebApi.Validators.AppUser;
 using Project.WebApi.Validators.AppUserProfile;

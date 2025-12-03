@@ -1,7 +1,7 @@
 ﻿using Project.Bll.DependencyResolvers;
+using FluentValidation.AspNetCore;
 using Project.WebApi.MapperResolvers;
 using Project.WebApi.ValidatorResolvers;
-using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
