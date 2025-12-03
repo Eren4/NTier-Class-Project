@@ -1,0 +1,5 @@
+﻿1 => Conf katmanına Microfost.EntityFrameworkCore.SqlServer kütüphanesini .Net versiyonumuza uygun bir şekilde indirdik
+
+2 => DAL katmanına Microsoft.EntityFrameworkCore.Tools ve Microsoft.EntityFramework.Proxies kütüphanelerini .Net versiyonumuza uygun bir şekilde indirdik
+
+3 => Calısacak UI katmanımıza (MEvcut projede WebApi'dir) Microsoft.EntityFrameworkCore.Design kütüphanesini .Net versiyonumuza uygun bir şekilde indiriyoruz...
